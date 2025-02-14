@@ -86,6 +86,8 @@ The analysis is based on five CSV files:
  📌 Reference
 This project was made with reference to a project on YouTube uploaded by Codebasics. https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
 
+ ---
+
  📌 Final Dashboard
 ![Final Dashboard](final_dashboard.jpg)
 ![final dashboard](https://github.com/user-attachments/assets/a3abd419-c3f8-4af3-99a4-e5d2398dc183)
@@ -94,3 +96,4 @@ This project was made with reference to a project on YouTube uploaded by Codebas
 
 Thank you for exploring this project! 🚀
 
+--- 
