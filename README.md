@@ -89,7 +89,9 @@ This project was made with reference to a project on YouTube uploaded by Codebas
  ---
 
  📌 Final Dashboard
+ 
 ![Final Dashboard](final_dashboard.jpg)
+
 ![final dashboard](https://github.com/user-attachments/assets/a3abd419-c3f8-4af3-99a4-e5d2398dc183)
 
 ---
